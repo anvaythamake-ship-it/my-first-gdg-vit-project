@@ -20,4 +20,4 @@ It allows organizers to plan, track, and coordinate event details in one place.
 
 ## 👨‍💻 Author
 Created by **anvay thamake**  
-GitHub: [your GitHub username](https://github.com/yourusername)
+GitHub: Anvay thamake 
